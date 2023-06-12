@@ -1,0 +1,2 @@
+2023-06-10 20:03:14.995342: Test dataset number of batch: 25 
+2023-06-10 20:03:14.995515: start inference now! 

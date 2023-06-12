@@ -1,0 +1,8 @@
+2023-06-11 01:59:21.830044: Evaluation dataset number of batch: 3 
+2023-06-11 01:59:21.830222: start inference now! 
+2023-06-11 01:59:23.517557: Evaluation case id: 487 
+2023-06-11 01:59:25.424224: Writing user_test/out/output/BRATS_487.nii.gz 
+2023-06-11 01:59:25.472946: Evaluation case id: 485 
+2023-06-11 01:59:26.105547: Writing user_test/out/output/BRATS_485.nii.gz 
+2023-06-11 01:59:26.150743: Evaluation case id: 486 
+2023-06-11 01:59:26.778422: Writing user_test/out/output/BRATS_486.nii.gz 

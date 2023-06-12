@@ -1,0 +1,3 @@
+2023-05-29 15:35:12.711696: Created model 
+2023-05-29 15:35:12.714173: total number of trainable parameters 86794044 
+2023-05-29 15:35:13.332800: resuming the training from epoch 203 

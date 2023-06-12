@@ -1,0 +1,17 @@
+batch_size: 1
+cfg: configs/msnet_base.yaml
+num_classes: 3
+output_folder: !!python/object/apply:pathlib.PosixPath
+- /
+- raid
+- temuuzhin
+- src
+- togit
+- msnet
+- test_results
+- model3_100
+seg_folder: !!python/object/apply:pathlib.PosixPath
+- test_results
+- model3_100
+- output
+workers: 2

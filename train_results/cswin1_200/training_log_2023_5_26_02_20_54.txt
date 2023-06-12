@@ -1,0 +1,8 @@
+2023-05-26 02:20:57.504051: Created model 
+2023-05-26 02:20:57.506727: total number of trainable parameters 86794044 
+2023-05-26 02:21:00.555422: <bound method EDiceLoss_Val.metric of EDiceLoss_Val()> 
+2023-05-26 02:21:00.569442: Train dataset number of batch: 129 
+2023-05-26 02:21:00.569682: Val dataset number of batch: 72 
+2023-05-26 02:21:00.569749: Bench Test dataset number of batch: 25 
+2023-05-26 02:21:00.569919: start training now! 
+2023-05-26 02:21:00.570000: Batches per epoch:  129 
